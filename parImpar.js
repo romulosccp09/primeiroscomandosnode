@@ -5,6 +5,8 @@ function parImpar(a){
         return console.log("%d é Par.", a);
     } else{
         return console.log("%d é Impar.", a);
+        alert('é impar');
+        window.alert('oi')
     }
 }
 
